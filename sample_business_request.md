@@ -22,7 +22,7 @@
 ## User Stories
 |As A|I want (business request)|So that (Value)|Acceptance criteria|
 |------|------|------|------|
-|Sales Manager|Visual dashboard for internet sales|I can follow which products sell the most|A dashboard trhat updates data daily|
+|Sales Manager|Visual dashboard for internet sales|I can follow which products sell the most|A dashboard that updates data daily|
 |Sales Manager|Visual dashboard for internet sales|I can follow sales progress over time|A dashboard with graphs and KPIs comparing against budget|
 |Sales representative|Detailed overview of sales per product|I can look at the performance of each product|A dashboard that can filter data per product|
 |Sales representative|Detailed overview of sales per Customer|I can look at the performance of each Customer|A dashboard that can filter data per Customer|
